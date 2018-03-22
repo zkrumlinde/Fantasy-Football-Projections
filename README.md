@@ -4,18 +4,19 @@
 Create a mobile application that retrieves data from a web service, parses and filters the data and displays useful information in an intuitive and accessible interface. The application must include:
 - At least two screens
 - Data retrieved from a web service
+- Well designed (does not use default color scheme)
 - Well formatted screens
-- Useful data display (charts are recommended but not required)
+- Useful data display (detail data or charts )
 - User interaction
 
-*You may use any web service that you desire but I recommend that you use the same web service that you used for the first project.*
+*You may use any web service that you desire but I recommend that you use the same web service that you used for the week 7 Networking assignment.*
 
-To submit the project: 
+To submit the project:
 1. Save the Android project in the folder that was created when you cloned this repository.
 2. When you've completed the assignment, commit and push your solution to GitHub. Be sure that you have moved to the repository directory using `cd directory-name` before you issue these commands.
 ```
 git add .
-git commit -m "completed explicit intent lab"
+git commit -m "completed project 2"
 git push
 ```
 
@@ -44,8 +45,4 @@ Your assignment will be evaluated based on the following rubric:
 
 
 
-
-
-
 **This assignment is due in Week 8 (Sunday by 11:59PM CST).**
-
