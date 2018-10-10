@@ -25,22 +25,22 @@ git push
 
 ### Grading
 
-This assignment is worth **50 points**
+This assignment is worth **100 points**
 
 Your assignment will be evaluated based on the following rubric:
-- Delivered on time and in correct format: 2 pts.
-- Readable (code is organized and easy to follow): 4 pt.
-- Contains at leasts two screens: 4 pts.
-- Data is retrieved from a web service and parsed: 4 pts.
-- User can interact with the application: 4 pt.
-- User interface is intuitive and accessible: 4 pts.
-- Application is visually appealing: 4 pts.
-- Data display is informative: 4 pts.
-- Application is unique: 4 pts.
-- Application is easy to use: 4 pts.
-- Handles the Android lifecycle appropriately: 4 pts.
-- Runs efficiently (uses threading): 4 pts.
-- Works as expected (does not crash): 4 pts.
+- Delivered on time and in correct format: 4 pts.
+- Readable (code is organized and easy to follow): 8 pt.
+- Contains at leasts two screens: 8 pts.
+- Data is retrieved from a web service and parsed: 8 pts.
+- User can interact with the application: 8 pt.
+- User interface is intuitive and accessible: 8 pts.
+- Application is visually appealing: 8 pts.
+- Data display is informative: 8 pts.
+- Application is unique: 8 pts.
+- Application is easy to use: 8 pts.
+- Handles the Android lifecycle appropriately: 8 pts.
+- Runs efficiently (uses threading): 8 pts.
+- Works as expected (does not crash): 8 pts.
 
 
 
